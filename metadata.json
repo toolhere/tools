@@ -1,0 +1,7 @@
+{
+  "name": "Noobu Tools - Free Tools for Students & Professionals",
+  "description": "An all-in-one platform for PDF manipulation, image resizing, AI resume analysis, content creation, and developer tools. Fast, secure, and no signup required.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
